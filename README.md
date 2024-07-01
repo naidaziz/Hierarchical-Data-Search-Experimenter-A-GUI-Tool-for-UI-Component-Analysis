@@ -1,4 +1,4 @@
-"# Hierarchical-Data-Search-Experimenter-A-GUI-Tool-for-UI-Component-Analysis" 
+# Hierarchical-Data-Search-Experimenter-A-GUI-Tool-for-UI-Component-Analysis
 
 ## Motivation
 User interface (UI) design isn't just about personal preferences; it's influenced by principles from cognitive science, psychology, and human-computer interaction research. Understanding these principles often requires empirical data gathered through experiments. This project aims to develop an open-source GUI application to assist in conducting such experiments.
